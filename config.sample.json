@@ -1,0 +1,7 @@
+{
+  "mqtt": {
+    "host": "mqtt://localhost",
+    "port": 1883,
+    "topic":"timo/data"
+  }
+}
